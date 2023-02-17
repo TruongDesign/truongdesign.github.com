@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Truong Design</title>
+  </head>
+  <body>
+    <a href="/">Home</a>
+    <a href="./voice">Voice</a>
+    <a href="./about">About</a>
+    <audio src="/PSA2Halloween.wav" controls>	
+  </body>
+</html>
